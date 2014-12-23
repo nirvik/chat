@@ -1,0 +1,37 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+#msgWindow {
+  white-space: pre;
+  overflow-y: auto;
+  overflow-x: none;
+  width: 700px;
+  height: 550px;
+}
+
+.shadow {
+  box-shadow: 2px 2px 4px 1px #000000;
+  padding-top: 10px;
+  padding-right: 1px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  width:700px;
+  height:550px;
+}
+
+.all-msg {
+}
+
+.private {
+  font-style:italic;
+  }
+
+.admin-msg {
+  font-face: "verdana, helvetica";
+  font-size: 8;
+}
